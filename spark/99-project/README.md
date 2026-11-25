@@ -184,3 +184,5 @@ spark-submit \
 [Python Package Management](https://spark.apache.org/docs/latest/api/python/tutorial/python_packaging.html)
 
 [JDBC To Other Databases](https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html)
+
+IP2Location LITE data: [https://lite.ip2location.com](https://lite.ip2location.com) (CC BY-SA 4.0)
